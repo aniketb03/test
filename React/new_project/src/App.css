@@ -1,8 +1,7 @@
 .App {
   text-align: center;
-  display:flex;
+  /* display:flex; */
 }
-
 .profile-pic{
   height: 500px;
   width: 500px;

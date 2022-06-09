@@ -65,6 +65,5 @@ function Welcome(props){
  }  
 
 export default App;
-
 // Hook-make react listen to the changes(It's a function)
 
